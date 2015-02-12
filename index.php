@@ -1,6 +1,6 @@
 <html>
  <head>
-  <title>PHP Test</title>
+  <title>BTHP Support</title>
  </head>
  <body>
  <?php echo '<p>Hello World</p>'; ?> 
